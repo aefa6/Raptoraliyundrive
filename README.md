@@ -3,7 +3,7 @@
 [![Powered by Qt](https://img.shields.io/badge/Powered%20by-Qt-49CF59.svg)](https://changelog.com/jsparty/96)
 [![Discuss on GitHub](https://img.shields.io/badge/Discuss%20on-GitHub-00A4FF)](https://github.com/InfpPointPlus/Raptor/discussions)
 
-使用 Qt 和 C++ 构建的低内存、简洁和美观的第三方阿里云盘桌面应用客户端🚀
+使用 Qt 和 C++ 构建的低内存、小而美的第三方阿里云盘桌面应用客户端🚀
 
 Raptor 由 **Qt5** 💚 驱动，与其他基于 Chromium 的解决方案（如 Electron）相比，这使得其 CPU 和内存使用较低
 
